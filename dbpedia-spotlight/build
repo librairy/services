@@ -1,0 +1,2 @@
+cd $1
+docker build -t librairy/dbpedia-$1 .
